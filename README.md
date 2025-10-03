@@ -1,4 +1,5 @@
 # Jac Calculator – Step 5 and Step 6 Examples
+This assignment demonstrates Jac's scale-agnostic architecture (Step 5) and AI integration (Step 6) by implementing a simple calculator as Jac walkers that run locally or as HTTP services, with the AI variant generating natural-language explanations via an LLM.
 
 - Step 5: `calc_step5.jac` (scale-agnostic calculator)
 - Step 6: `calc_step6.jac` (AI-enhanced calculator explanations via byLLM)
